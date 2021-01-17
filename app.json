@@ -1,0 +1,12 @@
+{
+  "name": "biome",
+  "displayName": "biome",
+  "expo": {
+    "name": "biome",
+    "slug": "biome",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
